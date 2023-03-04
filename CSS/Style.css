@@ -89,6 +89,8 @@ nav input{
     align-items: center;
     justify-content: center;
     border-radius: 50px;
+    border-color: transparent;
+    margin-left: 4px;
 }
 
 #Shorts{
